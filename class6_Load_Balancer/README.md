@@ -144,3 +144,6 @@ curl localhost:8080
 
 15. All the three containers that are running (1 Nginx Reverse Proxy and 2 Node JS servers):
 ![14](https://user-images.githubusercontent.com/97389617/149619298-e69749a5-6195-4ae9-8015-498ed65c819e.png)
+
+######References:
+[Load Balancing Node.js Applications with NGINX and Docker](https://auth0.com/blog/load-balancing-nodejs-applications-with-nginx-and-docker/)
